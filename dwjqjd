@@ -1,0 +1,30 @@
+#player,#player a{ color:#FF0000; }
+#player{ background:url(http://static.tumblr.com/kpofzpr/mItm1cpa4/volume.png); background-position:bottom; background-color: #000 }
+#player .mainImage{ background:url(http://static.tumblr.com/kpofzpr/4cem1cpbg/player.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://i1284.photobucket.com/albums/a563/PsychoSorrough/Teeny_Bat_by_abbyland.gif); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#fff;  }
+#player #seekerBuffered{ background-color:#bebebe; }
+#player #seekerSliderBase{ background-color:#2E8B57; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/kpofzpr/mItm1cpa4/volume.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#333;}
+#playlist .module{ color:#fff; background-color:#000; }
+#playlist h3{ background:url(http://static.tumblr.com/kpofzpr/ktpm1cpdz/playlist.png); color:#fff; background-color:#000; }
+#playlist .even{background-color:#000;}
+#playlist .odd{ background-color:#000;}
+#playlist .focus{ background-color:#000; color:#fff;}
